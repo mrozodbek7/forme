@@ -1,0 +1,45 @@
+*{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+.haqida{
+    color: rgb(0, 0, 0);    
+    border: 93px;
+    text-align: center;
+    padding: 36px;
+    font-family: sans-serif;
+    padding: 90px 0;
+    
+    
+    }
+    .haqida{
+        text-align: center;
+    }
+   
+    .tarix{
+        color: rgb(0, 0, 0);
+        text-align: center;
+        font-size: 60px;
+        
+    }
+    .haqida{
+        background-color: rgb(255, 255, 255);
+    }
+    .tarix{
+        
+        background-color: rgb(255, 255, 255);
+        transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+    }
+    a{
+        text-decoration: none; 
+        text-align: center;
+    }
+    
+    
+    
